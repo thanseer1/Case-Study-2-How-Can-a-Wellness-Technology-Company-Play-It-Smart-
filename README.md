@@ -42,6 +42,8 @@ Due to the small size of sample I sorted and filtered tables creating Pivot Tabl
 
 I will focus my analysis Ms Excel and Tablue due to the accessibility, amount of data and to be able to create data visualization to share my results with stakeholders
 
+# Analyze Phase and Share Phase 
+
 
 
 
