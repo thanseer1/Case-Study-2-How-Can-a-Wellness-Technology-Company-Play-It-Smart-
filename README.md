@@ -44,6 +44,35 @@ I will focus my analysis Ms Excel and Tablue due to the accessibility, amount of
 
 # Analyze Phase and Share Phase 
 
+![Untitled](https://user-images.githubusercontent.com/75206129/174474531-fe308e0b-a840-4c15-bea3-05db2ddc5ae8.png)
+
+The bar graph shows that there is a jump on Saturday: user spent LESS time in sedentary minutes and take MORE steps. Users are out and about on Saturday.
+
+![Untitled](https://user-images.githubusercontent.com/75206129/174474860-242aec13-fd0b-45a8-9d19-346a783e39d5.png)
+
+sleep recorde
+![Untitled](https://user-images.githubusercontent.com/75206129/174475163-903a7995-36a0-4652-a601-d60323e05963.png)
+
+
+# Share
+
+[ Bellabeat Data Analysis Dashboard](https://public.tableau.com/app/profile/thanseer4658/viz/CaseStudyBellabeat_16556101619180/Dashboard2)
+
+
+# Act Phase
+  .....
+  ....................
+  ................................
+
+   
+
+
+
+
+
+
+
+
 
 
 
